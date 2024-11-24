@@ -1,0 +1,6 @@
+AIzaSyBIK3t27xvwWJZsVuexGvjW6eAAEWvJ2kI
+AlnVctr - Victor1205@ab
+mongodb+srv://AlnVctr:Victor1205@ab@cluster0.hnxzo.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+allanvictorecife - VictorAA
+mongodb+srv://allanvictorecife:VictorAA@cluster0.hc3ze.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
